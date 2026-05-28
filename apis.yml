@@ -1,0 +1,32 @@
+aid: digitalocean-status
+name: DigitalOcean Status
+description: "Status of all DigitalOcean services"
+url: https://status.digitalocean.com/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: DigitalOcean Status
+    description: "Status of all DigitalOcean services"
+    humanURL: https://status.digitalocean.com/api
+    baseURL: https://status.digitalocean.com/api
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://status.digitalocean.com/api
+common:
+  - type: Website
+    url: https://status.digitalocean.com/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
