@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://status.digitalocean.com/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/digitalocean-status-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/digitalocean-status-domain-security.yml
   - type: Website
     url: https://status.digitalocean.com/api
   - type: PublicAPIsListing
