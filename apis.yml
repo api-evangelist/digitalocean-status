@@ -39,7 +39,6 @@ apis:
   - name: DigitalOcean Status
     description: "Status of all DigitalOcean services"
     humanURL: https://status.digitalocean.com/api
-    baseURL: https://status.digitalocean.com/api
     tags:
       - Development
     properties:
