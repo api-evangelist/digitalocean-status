@@ -1,0 +1,14 @@
+{
+  "repo": "digitalocean-status",
+  "feeds": [
+    {
+      "source": "https://status.digitalocean.com/history.atom",
+      "feed_url": "https://status.digitalocean.com/history.atom",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-10-10T13:15:00Z"
+}
